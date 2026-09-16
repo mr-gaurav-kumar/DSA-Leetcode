@@ -13,5 +13,6 @@ class Solution:
 
         return original == reverse
 
+
 # Time: O(log n)
 # Space: O(1)
