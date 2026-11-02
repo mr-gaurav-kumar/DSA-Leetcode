@@ -11,3 +11,7 @@ class Solution:
             moves += abs(num - median)
 
         return moves
+
+
+# Time Complexity = O(n log n)
+# Space Complexity = O(1)
